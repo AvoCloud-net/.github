@@ -49,7 +49,7 @@ All projects are licensed under the MIT License - see the [LICENSE](LICENSE) fil
 
 For questions, suggestions, or just to say hi:
 - Website: [https://avocloud.net](https://avocloud.net)
-- Discord: [Join our Discord](https://discord.gg/avocloud)
+- Discord: [Join our Discord](https://avocloud.net/discord)
 
 ---
 
